@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+"""Create a pascal's triangle."""
+
+
 def pascal_triangle(n):
+    """Return the triangle with accordance to the input."""
     triangle = []
     for i in range(n):
         row = [1] * (i + 1)
