@@ -15,3 +15,4 @@
 ### 0x05. [N Queens](https://github.com/Juli868/alx-interview/tree/master/0x05-nqueens)
 ### 0x06. [Star Wars API](https://github.com/Juli868/alx-interview/tree/master/0x06-starwars_api)
 ### 0x07. [Rotate 2D Matrix](https://github.com/Juli868/alx-interview/tree/master/0x07-rotate_2d_matrix)
+### 0x08. [Making Change](https://github.com/Juli868/alx-interview/tree/master/0x08-making_change)
